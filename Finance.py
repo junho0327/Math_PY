@@ -1,6 +1,6 @@
 import requests
 
-url = ' https://www.koreaexim.go.kr/site/program/financial/exchangeJSON?authkey=KBlRL8EOIfKEDiYuevOAnKlE0ynDJUGa&searchdate=20180102&data=AP01'
+url = ' https://www.koreaexim.go.kr/site/program/financial/exchangeJSON?authkey=&searchdate=20180102&data=AP01'
 req = requests.get(url)
 req
 
