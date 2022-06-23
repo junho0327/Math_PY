@@ -4,7 +4,7 @@ import xml.etree.ElementTree as ET
 
 ## 호출하려는 OpenAPI URL를 정의합니다.
 
-url = "http://ecos.bok.or.kr/api/StatisticItemList/ODZTPHAGPZTN9RALVWR5/xml/kr/1/1/021Y125/"
+url = "http://ecos.bok.or.kr/api/StatisticItemList//xml/kr/1/1/021Y125/"
 
 ## 정의된 OpenAPI URL을 호출합니다.
 
